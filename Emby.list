@@ -1,0 +1,11 @@
+# 内容：Emby
+# 数量：9条
+USER-AGENT,*emby*
+USER-AGENT,Emby*
+DOMAIN-SUFFIX,tanhuatv.site
+DOMAIN-SUFFIX,embyplus.org
+DOMAIN-SUFFIX,emby.nezhasu.com
+DOMAIN-SUFFIX,emby.bangumi.ca
+DOMAIN-SUFFIX,s.outong-valve.com
+DOMAIN-SUFFIX,v1.uhdnow.com
+DOMAIN-SUFFIX,hka-emby3.aliz.work
